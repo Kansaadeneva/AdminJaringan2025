@@ -1,12 +1,13 @@
-## TUGAS WORKSHOP ADMINISTRASI JARINGAN 
+### TUGAS WORKSHOP ADMINISTRASI JARINGAN 
 
-#TUGAS 1 REVIEW
+## TUGAS 1 REVIEW
   1. Download http.cap di https://wiki.wireshark.org/SampleCaptures
+
      Hasil Download:
      ![download http.cap](https://github.com/Kansaadeneva/AdminJaringan2025/issues/1#issue-2865980429)
 
      
-  2. Eksplor http.cap di wireshark, lakukan analisis
+  3. Eksplor http.cap di wireshark, lakukan analisis
 
      a. IP server dan client
         IP client = 145.254.160.237
@@ -33,6 +34,6 @@
         4.846969 - 0.911310 = 3.935659 detik
 
 
-#TUGAS 2 ANALISIS GAMBAR
+## TUGAS 2 ANALISIS GAMBAR
 
-#TUGAS 3 RESUME
+## TUGAS 3 RESUME
