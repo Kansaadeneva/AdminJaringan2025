@@ -29,7 +29,7 @@
      d. Waktu server menerima HTTP request dari client
 
       Server 65.208.228.223 mengirim HTTP/1.1 200 OK pada waktu 4.846969 detik,
-      ![waktu server menerima req]((https://github.com/Kansaadeneva/AdminJaringan2025/blob/3b99b92715735171ce745b6938efe55580a5f193/Screenshot%202025-02-20%20193021.png))
+      ![waktu server menerima req](https://github.com/Kansaadeneva/AdminJaringan2025/blob/75efbece904d4da8dae9a5edbb37ec1d4b246bdf/Screenshot%202025-02-20%20193021.png)
      
      e. Waktu yang dibutuhkan untuk transfer dan response dari client ke server
 
