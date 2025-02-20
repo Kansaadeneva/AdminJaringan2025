@@ -19,7 +19,7 @@
      b. Versi HTTP
 
       Versi HTTP yang digunakan adalah HTTP/1.1 :
-      ![Versi HTTP](https://github.com/Kansaadeneva/AdminJaringan2025/issues/4#issue-2866143869)
+      ![Versi HTTP](https://github.com/Kansaadeneva/AdminJaringan2025/blob/3b99b92715735171ce745b6938efe55580a5f193/Screenshot%202025-02-20%20193021.png)
      
      c. Waktu client mengirim request
 
