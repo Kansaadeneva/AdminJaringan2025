@@ -9,7 +9,7 @@
 
      a. IP server dan client
         IP client = 145.254.160.237
-        ![ip client](https://github.com/Kansaadeneva/AdminJaringan2025/issues/2#issue-2866135380)
+        ![ip client]()
      
         IP server = 65.208.228.223
         ![ip server](https://github.com/Kansaadeneva/AdminJaringan2025/issues/3#issue-2866139406)
@@ -20,6 +20,7 @@
      
      c. Waktu client mengirim request
         Ip client 145.254.160.237 mengirim ke server request GET /download.html adalah 0.911310 detik
+        ![waktu client mengirim req](https://github.com/Kansaadeneva/AdminJaringan2025/issues/3#issue-2866139406)
      
      d. Waktu server menerima HTTP request dari client
         Server 65.208.228.223 mengirim HTTP/1.1 200 OK pada waktu 4.846969 detik
