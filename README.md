@@ -59,6 +59,7 @@ Proses yang terjadi didalam gambar:
 ![TCP](https://github.com/Kansaadeneva/AdminJaringan2025/blob/f18c3f04e7126cb94fae67d315c0c3328f9c87eb/Screenshot%202025-02-20%20213333.png)
   Transmission Control Protocol (TCP) adalah protokol komunikasi yang memungkinkan pengiriman data yang terjamin dan terurut antar perangkat dalam jaringan. TCP menggunakan tiga tahapan utama untuk mengelola koneksi, yaitu establishment, data transfer, dan termination.
   1. Establishment (Pembentukan Koneksi)
+     ![Connection establishment using three-way handshaking](https://github.com/Kansaadeneva/AdminJaringan2025/blob/39042cc30c91f9f167e96f7871fbe261085c1614/Screenshot%202025-02-20%20225934.png)
      Tahap ini melibatkan proses yang dikenal sebagai three-way handshake untuk membangun koneksi antara dua perangkat (client dengan server).
      - Langkah 1: SYN (Synchronize)
          Pengirim mengirimkan pesan SYN ke penerima untuk memulai koneksi.
@@ -67,14 +68,14 @@ Proses yang terjadi didalam gambar:
      - Langkah 3: ACK (Acknowledge)
          Pengirim mengirimkan ACK sebagai tanda akhir proses handshake, dan koneksi siap digunakan.
        
-  2. Data transfer
+  3. Data transfer
      Setelah koneksi terbentuk, data dikirim secara berurutan dengan nomor urut (sequence number). TCP memastikan kendala dan pengurutan data melalui mekanisme berikut:
      - Segmentation, data dibagi menjadi segmen-segmen yang dikirim secara terurut.
      - Acknowledgement, penerima mengirimkan ACK untuk setiap segmen yang berhasil diterima.
      - Flow Control, TCP mengontrol aliran data untuk memastikan pengiriman berjalan efisiensi dan tidak membebani jaringan.
      - Error Detection and Retransmission, jika segmen hilang atau rusak, TCP akan mengirim ulang segmen tersebut.
        
-  3. Termination (Pemutusan koneksi)
+  4. Termination (Pemutusan koneksi)
      Tahap ini digunakan untuk menutup koneksi TCP dengan aman. Gambar tersebut menunjukkan terminasi koneksi TCP menggunakan three-way handshake, yang melibatkan pertukaran segmen antara klien dengan server untuk menutup koneksi secara bersih.
      - FIN dari Client (Active Close)
        Client yang ingin mengakhiri koneksi mengirim segmen dengan:
