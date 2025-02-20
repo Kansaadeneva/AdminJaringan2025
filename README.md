@@ -77,6 +77,7 @@ Proses yang terjadi didalam gambar:
      - Error Detection and Retransmission, jika segmen hilang atau rusak, TCP akan mengirim ulang segmen tersebut.
        
   3. Termination (Pemutusan koneksi)
+     ![Connection termination using three-way handshaking](https://github.com/Kansaadeneva/AdminJaringan2025/blob/d5093d127edeb93e4ba2bb2365167711c97e3c95/Screenshot%202025-02-20%20230439.png)
      Tahap ini digunakan untuk menutup koneksi TCP dengan aman. Gambar tersebut menunjukkan terminasi koneksi TCP menggunakan three-way handshake, yang melibatkan pertukaran segmen antara klien dengan server untuk menutup koneksi secara bersih.
      - FIN dari Client (Active Close)
        Client yang ingin mengakhiri koneksi mengirim segmen dengan:
