@@ -56,6 +56,7 @@ Proses yang terjadi didalam gambar:
 
 
 ## TUGAS 3 RESUME
+![TCP](https://github.com/Kansaadeneva/AdminJaringan2025/blob/f18c3f04e7126cb94fae67d315c0c3328f9c87eb/Screenshot%202025-02-20%20213333.png)
   Transmission Control Protocol (TCP) adalah protokol komunikasi yang memungkinkan pengiriman data yang terjamin dan terurut antar perangkat dalam jaringan. TCP menggunakan tiga tahapan utama untuk mengelola koneksi, yaitu establishment, data transfer, dan termination.
   1. Establishment (Pembentukan Koneksi)
   2. Data transfer
