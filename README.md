@@ -16,6 +16,7 @@
      
      b. Versi HTTP
         Versi HTTP yang digunakan adalah HTTP/1.1
+        ![Versi HTTP](https://github.com/Kansaadeneva/AdminJaringan2025/issues/4#issue-2866143869)
      
      c. Waktu client mengirim request
         Ip client 145.254.160.237 mengirim ke server request GET /download.html adalah 0.911310 detik
