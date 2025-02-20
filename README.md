@@ -10,6 +10,7 @@
   3. Eksplor http.cap di wireshark, lakukan analisis
 
      a. IP server dan client
+
         IP client = 145.254.160.237
         ![ip client](https://github.com/Kansaadeneva/AdminJaringan2025/issues/5#issue-2866162924)
      
