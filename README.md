@@ -12,7 +12,7 @@
         ![ip client]()
      
         IP server = 65.208.228.223
-        ![ip server](https://github.com/Kansaadeneva/AdminJaringan2025/issues/3#issue-2866139406)
+        ![ip server]()
      
      b. Versi HTTP
         Versi HTTP yang digunakan adalah HTTP/1.1
@@ -24,6 +24,7 @@
      
      d. Waktu server menerima HTTP request dari client
         Server 65.208.228.223 mengirim HTTP/1.1 200 OK pada waktu 4.846969 detik
+        ![waktu server menerima req](https://github.com/Kansaadeneva/AdminJaringan2025/issues/3#issue-2866139406)
      
      e. Waktu yang dibutuhkan untuk transfer dan response dari client ke server
         Waktu yang dibutuhkan untuk transfer dan response dari client ke server sekitar 3.94 detik
