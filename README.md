@@ -39,6 +39,8 @@
 
 ## TUGAS 2 ANALISIS GAMBAR
 
+![Gambar pengiriman data](https://github.com/Kansaadeneva/AdminJaringan2025/blob/abc47dd73f1e5b9af0ec48c0361e86d02d21a1f6/Screenshot%202025-02-20%20204512.png)
+
   Gambar ini menggambarkan proses komunikasi data dalam jaringan komputer menggunakan tiga lapisan utama:
   1. Data Link Layer (Node to Node) : yang menangani komunikasi antara komputer ke router, router ke router lain, dan seterusnya.
   2. Network Layer (Host to Host) : Layer ini untuk internet protokol yang menghubungkan jaringan berbeda di internet.
