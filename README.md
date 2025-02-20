@@ -2,11 +2,10 @@
 
 #TUGAS 1 REVIEW
   1. Download http.cap di https://wiki.wireshark.org/SampleCaptures
-
+     Hasil Download:
      ![download http.cap](https://github.com/Kansaadeneva/AdminJaringan2025/issues/1#issue-2865980429)
      
   2. Eksplor http.cap di wireshark, lakukan analisis
-
      a. IP server dan client
         IP client = 145.254.160.237
         IP server = 65.208.228.223
