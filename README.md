@@ -1,12 +1,10 @@
 ## TUGAS WORKSHOP ADMINISTRASI JARINGAN 
 
-## 📋 Identitas Mahasiswa
-
-| Nama         | Kansa Adeneva                          |
-|-------------|------------------------------------|
-| NRP          | 3123600009                         |
-| Mata Kuliah  | Workshop Administrasi Jaringan    |
-| Dosen        | Dr Ferry Astika Saputra ST, M.Sc  |
+| Nama         | **Kansa Adeneva**                  |
+|-------------|:----------------------------------:|
+| NRP          | **3123600009**                     |
+| Mata Kuliah  | **Workshop Administrasi Jaringan** |
+| Dosen        | **Dr Ferry Astika Saputra ST, M.Sc** |
 
 
 
