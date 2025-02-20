@@ -11,10 +11,10 @@
 
      a. IP server dan client
       IP client = 145.254.160.237 :
-      ![ip client](https://github.com/Kansaadeneva/AdminJaringan2025/issues/5#issue-2866162924)
+      ![ip client](https://github.com/Kansaadeneva/AdminJaringan2025/blob/d4bf49b0a960fd9ab06b7c78fb5e57bb15eee6aa/Screenshot%202025-02-20%20202627.png)
 
       IP server = 65.208.228.223 :
-      ![ip server](https://github.com/Kansaadeneva/AdminJaringan2025/issues/5#issue-2866162924)
+      ![ip server](https://github.com/Kansaadeneva/AdminJaringan2025/blob/d4bf49b0a960fd9ab06b7c78fb5e57bb15eee6aa/Screenshot%202025-02-20%20202627.png)
      
      b. Versi HTTP
 
