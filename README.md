@@ -24,7 +24,7 @@
      c. Waktu client mengirim request
 
       Ip client 145.254.160.237 mengirim ke server request GET /download.html adalah 0.911310 detik,
-      ![waktu client mengirim req](https://github.com/Kansaadeneva/AdminJaringan2025/issues/2#issue-2866135380)
+      ![waktu client mengirim req](https://github.com/Kansaadeneva/AdminJaringan2025/blob/acdbb602011e950d6a477dc147d655c4b422397f/Screenshot%202025-02-20%20193011.png)
      
      d. Waktu server menerima HTTP request dari client
 
