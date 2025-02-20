@@ -9,10 +9,10 @@
 
      a. IP server dan client
         IP client = 145.254.160.237
-        ![ip client]()
+        ![ip client](https://github.com/Kansaadeneva/AdminJaringan2025/issues/5#issue-2866162924)
      
         IP server = 65.208.228.223
-        ![ip server]()
+        ![ip server](https://github.com/Kansaadeneva/AdminJaringan2025/issues/5#issue-2866162924)
      
      b. Versi HTTP
         Versi HTTP yang digunakan adalah HTTP/1.1
