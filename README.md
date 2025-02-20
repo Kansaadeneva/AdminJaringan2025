@@ -59,5 +59,35 @@ Proses yang terjadi didalam gambar:
 ![TCP](https://github.com/Kansaadeneva/AdminJaringan2025/blob/f18c3f04e7126cb94fae67d315c0c3328f9c87eb/Screenshot%202025-02-20%20213333.png)
   Transmission Control Protocol (TCP) adalah protokol komunikasi yang memungkinkan pengiriman data yang terjamin dan terurut antar perangkat dalam jaringan. TCP menggunakan tiga tahapan utama untuk mengelola koneksi, yaitu establishment, data transfer, dan termination.
   1. Establishment (Pembentukan Koneksi)
+     Tahap ini melibatkan proses yang dikenal sebagai three-way handshake untuk membangun koneksi antara dua perangkat (client dengan server).
+     - Langkah 1: SYN (Synchronize)
+         Pengirim mengirimkan pesan SYN ke penerima untuk memulai koneksi.
+     - Langkah 2: SYN-ACK (Synchronize-Acknowledge)
+         Penerima merespons dengan SYN-ACK untuk mengkonfirmasi permintaan koneksi.
+     - Langkah 3: ACK (Acknowledge)
+         Pengirim mengirimkan ACK sebagai tanda akhir proses handshake, dan koneksi siap digunakan.
+       
   2. Data transfer
+     Setelah koneksi terbentuk, data dikirim secara berurutan dengan nomor urut (sequence number). TCP memastikan kendala dan pengurutan data melalui mekanisme berikut:
+     - Segmentation, data dibagi menjadi segmen-segmen yang dikirim secara terurut.
+     - Acknowledgement, penerima mengirimkan ACK untuk setiap segmen yang berhasil diterima.
+     - Flow Control, TCP mengontrol aliran data untuk memastikan pengiriman berjalan efisiensi dan tidak membebani jaringan.
+     - Error Detection and Retransmission, jika segmen hilang atau rusak, TCP akan mengirim ulang segmen tersebut.
+       
   3. Termination (Pemutusan koneksi)
+     Tahap ini digunakan untuk menutup koneksi TCP dengan aman. Gambar tersebut menunjukkan terminasi koneksi TCP menggunakan three-way handshake, yang melibatkan pertukaran segmen antara klien dengan server untuk menutup koneksi secara bersih.
+     - FIN dari Client (Active Close)
+       Client yang ingin mengakhiri koneksi mengirim segmen dengan:
+         - Flag FIN (Finish) menyatakan bahwa client tidak akan mengirim data lagi.
+         - Sequence Number (seq:x) menentukan nomor urutan paket terakhir.
+         - Acknowledgement Number (ack: y) mengakui paket terakhir yang diterima dari server.
+     - FIN + ACK dari Server (Passive Close)
+         - Flag ACK, mengkonfirmasi penerima FIN dari client.
+         - Flag FIN, menyatakan bahwa server juga ingin mengakhiri koneksi.
+         - Sequence Number (seq:y) mengirim nomor urutnya sendiri.
+         - Acknowledgement Number (ack: x + 1) mengakui paket terakhir client.
+     - ACK dari Client
+       Client menerima segmen FIN dari server dan mengirim ACK terakhir untuk mengkonfirmasi penutupan koneksi:
+         - Flag ACK, mengkonfirmasi FIN dari server.
+         - Sequence Number (seq:x).
+         - Acknowledgement Number (ack:y + 1).
