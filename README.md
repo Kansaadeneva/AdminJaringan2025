@@ -17,14 +17,17 @@
         ![ip server](https://github.com/Kansaadeneva/AdminJaringan2025/issues/5#issue-2866162924)
      
      b. Versi HTTP
+
         Versi HTTP yang digunakan adalah HTTP/1.1
         ![Versi HTTP](https://github.com/Kansaadeneva/AdminJaringan2025/issues/4#issue-2866143869)
      
      c. Waktu client mengirim request
+
         Ip client 145.254.160.237 mengirim ke server request GET /download.html adalah 0.911310 detik
         ![waktu client mengirim req](https://github.com/Kansaadeneva/AdminJaringan2025/issues/2#issue-2866135380)
      
      d. Waktu server menerima HTTP request dari client
+
         Server 65.208.228.223 mengirim HTTP/1.1 200 OK pada waktu 4.846969 detik
         ![waktu server menerima req](https://github.com/Kansaadeneva/AdminJaringan2025/issues/3#issue-2866139406)
      
