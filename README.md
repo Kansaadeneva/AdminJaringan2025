@@ -39,4 +39,16 @@
 
 ## TUGAS 2 ANALISIS GAMBAR
 
+  Gambar ini menggambarkan proses komunikasi data dalam jaringan komputer menggunakan tiga lapisan utama:
+  1. Data Link Layer (Node to Node) : yang menangani komunikasi antara komputer ke router, router ke router lain, dan seterusnya.
+  2. Network Layer (Host to Host) : Layer ini untuk internet protokol yang menghubungkan jaringan berbeda di internet.
+  3. Transport Layer (Process to Process) : Layer ini menangani komunikasi antara proses di komputer client dan server.
+
+  Proses yang terjadi didalam gambar:
+  1. Pengguna di komputer pengirim (server) memulai proses komunikasi (misalnya, mengakses situs web atau mengirim file).
+  2. Data dikemas dan dikirim melalui internet, melewati beberapa node (router).
+  3. Setiap router bertindak sebagai perantara, meneruskan paket ke tujuan berdasarkan alamat ip.
+  4. Di komputer penerima (client), data diterima dan diproses oleh aplikasi yang dituju, misalnya browser web atau aplikasi lainnya.
+
+
 ## TUGAS 3 RESUME
