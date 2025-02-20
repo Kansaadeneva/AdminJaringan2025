@@ -27,7 +27,7 @@
         ![waktu server menerima req](https://github.com/Kansaadeneva/AdminJaringan2025/issues/3#issue-2866139406)
      
      e. Waktu yang dibutuhkan untuk transfer dan response dari client ke server
-        Waktu yang dibutuhkan untuk transfer dan response dari client ke server sekitar 3.94 detik
+          Waktu yang dibutuhkan untuk transfer dan response dari client ke server sekitar 3.94 detik
         4.846969 - 0.911310 = 3.935659 detik
 
 #TUGAS 2 ANALISIS GAMBAR
