@@ -9,6 +9,8 @@
 
      a. IP server dan client
         IP client = 145.254.160.237
+        ![ip client](https://github.com/Kansaadeneva/AdminJaringan2025/issues/2#issue-2866135380)
+     
         IP server = 65.208.228.223
      
      b. Versi HTTP
