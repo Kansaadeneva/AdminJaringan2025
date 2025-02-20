@@ -4,7 +4,7 @@
   1. Download http.cap di https://wiki.wireshark.org/SampleCaptures
 
        Hasil Download:
-       ![download http.cap](Screenshot 2025-02-20 190906.png)
+       ![download http.cap](https://github.com/Kansaadeneva/AdminJaringan2025/blob/682c5d1cd44fcd3779a622d5ae407769afac5a53/Screenshot%202025-02-20%20190906.png)
 
      
   3. Eksplor http.cap di wireshark, lakukan analisis
